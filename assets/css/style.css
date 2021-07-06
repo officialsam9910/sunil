@@ -1422,7 +1422,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #0062d3;
+  background: black;
 }
 
 footer .copyright {
@@ -1448,7 +1448,7 @@ footer .social-links {
 footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #000;
+  background: #0062d3;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
